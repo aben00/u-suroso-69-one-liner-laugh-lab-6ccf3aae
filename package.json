@@ -1,0 +1,1 @@
+{"description":"One short funny line answering a prompt: the excuse a robot vacuum gives after eating a sock. Writes the line to /output/entry.txt.","license":"MIT","main":"main.ts","name":"u-suroso-69-one-liner-laugh-lab-6ccf3aae","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
